@@ -15,3 +15,6 @@ C:\Users\spark\source\repos\TournamentTracker\TrackerUI\obj\Debug\net6.0-windows
 C:\Users\spark\source\repos\TournamentTracker\TrackerUI\obj\Debug\net6.0-windows\TrackerUI.genruntimeconfig.cache
 C:\Users\spark\source\repos\TournamentTracker\TrackerUI\obj\Debug\net6.0-windows\ref\TrackerUI.dll
 C:\Users\spark\source\repos\TournamentTracker\TrackerUI\obj\Debug\net6.0-windows\TrackerUI.CreateTournamentForm.resources
+C:\Users\spark\source\repos\TournamentTracker\TrackerUI\obj\Debug\net6.0-windows\TrackerUI.CreatePrizeForm.resources
+C:\Users\spark\source\repos\TournamentTracker\TrackerUI\obj\Debug\net6.0-windows\TrackerUI.CreateTeamForm.resources
+C:\Users\spark\source\repos\TournamentTracker\TrackerUI\obj\Debug\net6.0-windows\TrackerUI.TournamentDashboardForm.resources
