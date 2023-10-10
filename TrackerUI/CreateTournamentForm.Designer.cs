@@ -144,7 +144,7 @@
             addTeamButton.FlatStyle = FlatStyle.Flat;
             addTeamButton.Font = new Font("Segoe UI Semibold", 15.75F, FontStyle.Bold, GraphicsUnit.Point);
             addTeamButton.ForeColor = SystemColors.MenuHighlight;
-            addTeamButton.Location = new Point(148, 455);
+            addTeamButton.Location = new Point(119, 439);
             addTeamButton.Name = "addTeamButton";
             addTeamButton.Size = new Size(204, 61);
             addTeamButton.TabIndex = 16;
@@ -159,7 +159,7 @@
             createPrizeButton.FlatStyle = FlatStyle.Flat;
             createPrizeButton.Font = new Font("Segoe UI Semibold", 15.75F, FontStyle.Bold, GraphicsUnit.Point);
             createPrizeButton.ForeColor = SystemColors.MenuHighlight;
-            createPrizeButton.Location = new Point(148, 560);
+            createPrizeButton.Location = new Point(119, 547);
             createPrizeButton.Name = "createPrizeButton";
             createPrizeButton.Size = new Size(204, 61);
             createPrizeButton.TabIndex = 17;
@@ -254,7 +254,7 @@
             createTournamentButton.FlatStyle = FlatStyle.Flat;
             createTournamentButton.Font = new Font("Segoe UI Semibold", 15.75F, FontStyle.Bold, GraphicsUnit.Point);
             createTournamentButton.ForeColor = SystemColors.MenuHighlight;
-            createTournamentButton.Location = new Point(359, 651);
+            createTournamentButton.Location = new Point(310, 652);
             createTournamentButton.Name = "createTournamentButton";
             createTournamentButton.Size = new Size(237, 88);
             createTournamentButton.TabIndex = 24;
