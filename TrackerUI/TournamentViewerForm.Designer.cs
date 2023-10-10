@@ -235,7 +235,7 @@
             Font = new Font("Segoe UI", 15.75F, FontStyle.Regular, GraphicsUnit.Point);
             Margin = new Padding(5, 6, 5, 6);
             Name = "TournamentViewerForm";
-            Text = "TournamentViewerForm";
+            Text = "Tournament Viewer";
             Load += TournamentViewerForm_Load;
             ResumeLayout(false);
             PerformLayout();
